@@ -5,11 +5,11 @@
     "private": false,
     "scripts": {
         "start": "react-scripts start",
-        "build": "react-scripts build ; cpy-cli build/index.html build/404.html",
+        "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d build -r quantlib-wasm-demo"
+        "deploy": "gh-pages -d build -r https://github.com/CaptorAB/quantlib-wasm-demo"
     },
     "dependencies": {
         "@captor/react-scripts": "3.1.1-a",
