@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/quantlib-wasm-demo/precache-manifest.7a03cb71b89439576bef5fa382d28e4c.js"
+  "/quantlib-wasm-demo/precache-manifest.4ee5e026606243bea252cc6ff518bfad.js"
 );
 
 self.addEventListener('message', (event) => {

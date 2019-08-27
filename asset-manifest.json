@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/quantlib-wasm-demo/static/css/main.ebe7601a.chunk.css",
-    "main.js": "/quantlib-wasm-demo/static/js/main.4892bc54.chunk.js",
-    "main.js.map": "/quantlib-wasm-demo/static/js/main.4892bc54.chunk.js.map",
+    "main.css": "/quantlib-wasm-demo/static/css/main.ae6d5a46.chunk.css",
+    "main.js": "/quantlib-wasm-demo/static/js/main.7f3806f2.chunk.js",
+    "main.js.map": "/quantlib-wasm-demo/static/js/main.7f3806f2.chunk.js.map",
     "runtime~main.js": "/quantlib-wasm-demo/static/js/runtime~main.2138ab66.js",
     "runtime~main.js.map": "/quantlib-wasm-demo/static/js/runtime~main.2138ab66.js.map",
     "static/js/2.118fc6e6.chunk.js": "/quantlib-wasm-demo/static/js/2.118fc6e6.chunk.js",
     "static/js/2.118fc6e6.chunk.js.map": "/quantlib-wasm-demo/static/js/2.118fc6e6.chunk.js.map",
     "index.html": "/quantlib-wasm-demo/index.html",
-    "precache-manifest.7a03cb71b89439576bef5fa382d28e4c.js": "/quantlib-wasm-demo/precache-manifest.7a03cb71b89439576bef5fa382d28e4c.js",
+    "precache-manifest.4ee5e026606243bea252cc6ff518bfad.js": "/quantlib-wasm-demo/precache-manifest.4ee5e026606243bea252cc6ff518bfad.js",
     "service-worker.js": "/quantlib-wasm-demo/service-worker.js",
-    "static/css/main.ebe7601a.chunk.css.map": "/quantlib-wasm-demo/static/css/main.ebe7601a.chunk.css.map",
+    "static/css/main.ae6d5a46.chunk.css.map": "/quantlib-wasm-demo/static/css/main.ae6d5a46.chunk.css.map",
     "static/js/quantlib.wasm": "/quantlib-wasm-demo/static/js/quantlib.793911a4.wasm"
   }
 }
