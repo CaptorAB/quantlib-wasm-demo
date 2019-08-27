@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6ec5c0c1b918ab1f6e6fbdcba37d18f",
+    "revision": "4246189431036e05ccc46631690c4c82",
     "url": "/quantlib-wasm-demo/index.html"
   },
   {
-    "revision": "626cadd08c89b57107a5",
+    "revision": "7bfab29ab98f7ca7820b",
     "url": "/quantlib-wasm-demo/static/css/main.ebe7601a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quantlib-wasm-demo/static/js/2.118fc6e6.chunk.js"
   },
   {
-    "revision": "626cadd08c89b57107a5",
-    "url": "/quantlib-wasm-demo/static/js/main.2aab488c.chunk.js"
+    "revision": "7bfab29ab98f7ca7820b",
+    "url": "/quantlib-wasm-demo/static/js/main.4892bc54.chunk.js"
   },
   {
     "revision": "793911a4c2597fc5fe82c60136be676b",
