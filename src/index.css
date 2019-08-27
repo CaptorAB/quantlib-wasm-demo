@@ -1,10 +1,32 @@
 body {
-    margin: 8px;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+    margin: 16px 0;
+    color: #ffb15e;
+    background-color: #222;
+    font-family: "Inconsolata", monospace;
+    font-weight: 500;
 }
 
-code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+.table-dark {
+    color: #ffb15e;
+    background-color: #292929;
+}
+
+.center {
+    text-align: center;
+}
+
+.text {
+    font-weight: 500;
+}
+
+.captor-logomark {
+    margin-left: 24px;
+    width: 50px;
+}
+.captor-logomark path {
+    stroke: #fff;
+}
+
+.react-logomark {
+    width: 83px;
 }
