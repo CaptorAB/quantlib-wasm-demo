@@ -132,13 +132,13 @@ function App() {
 
   const { benchmarks, curvePoints } = bootstrap(QuantLib, marketData);
   let trace1 = {
-    x: benchmarks.map((d) => new Date(d.date + " 00:00:00")),
+    x: benchmarks.map((d) => new Date(d.date)),
     y: benchmarks.map((d) => d.rate),
     mode: "markers",
     type: "scatter",
   };
   let trace2 = {
-    x: curvePoints.map((d) => new Date(d.date + " 00:00:00")),
+    x: curvePoints.map((d) => new Date(d.date)),
     y: curvePoints.map((d) => d.rate),
     mode: "lines",
     type: "scatter",
