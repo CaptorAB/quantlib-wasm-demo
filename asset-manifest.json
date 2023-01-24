@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/quantlib-wasm-demo/static/css/main.ee9bcf07.chunk.css",
-    "main.js": "/quantlib-wasm-demo/static/js/main.71f59351.chunk.js",
-    "main.js.map": "/quantlib-wasm-demo/static/js/main.71f59351.chunk.js.map",
-    "runtime-main.js": "/quantlib-wasm-demo/static/js/runtime-main.c2d6f730.js",
-    "runtime-main.js.map": "/quantlib-wasm-demo/static/js/runtime-main.c2d6f730.js.map",
-    "static/js/2.77a65a87.chunk.js": "/quantlib-wasm-demo/static/js/2.77a65a87.chunk.js",
-    "static/js/2.77a65a87.chunk.js.map": "/quantlib-wasm-demo/static/js/2.77a65a87.chunk.js.map",
-    "static/js/3.07d79fc9.chunk.js": "/quantlib-wasm-demo/static/js/3.07d79fc9.chunk.js",
-    "static/js/3.07d79fc9.chunk.js.map": "/quantlib-wasm-demo/static/js/3.07d79fc9.chunk.js.map",
+    "main.css": "/quantlib-wasm-demo/static/css/main.f075b883.chunk.css",
+    "main.js": "/quantlib-wasm-demo/static/js/main.28163a1a.chunk.js",
+    "main.js.map": "/quantlib-wasm-demo/static/js/main.28163a1a.chunk.js.map",
+    "runtime-main.js": "/quantlib-wasm-demo/static/js/runtime-main.b62edd92.js",
+    "runtime-main.js.map": "/quantlib-wasm-demo/static/js/runtime-main.b62edd92.js.map",
+    "static/js/2.4ce12c57.chunk.js": "/quantlib-wasm-demo/static/js/2.4ce12c57.chunk.js",
+    "static/js/2.4ce12c57.chunk.js.map": "/quantlib-wasm-demo/static/js/2.4ce12c57.chunk.js.map",
+    "static/js/3.28d6837c.chunk.js": "/quantlib-wasm-demo/static/js/3.28d6837c.chunk.js",
+    "static/js/3.28d6837c.chunk.js.map": "/quantlib-wasm-demo/static/js/3.28d6837c.chunk.js.map",
     "index.html": "/quantlib-wasm-demo/index.html",
-    "static/css/main.ee9bcf07.chunk.css.map": "/quantlib-wasm-demo/static/css/main.ee9bcf07.chunk.css.map",
-    "static/js/2.77a65a87.chunk.js.LICENSE.txt": "/quantlib-wasm-demo/static/js/2.77a65a87.chunk.js.LICENSE.txt",
-    "static/js/quantlib.wasm": "/quantlib-wasm-demo/static/js/quantlib.48264340.wasm"
+    "static/css/main.f075b883.chunk.css.map": "/quantlib-wasm-demo/static/css/main.f075b883.chunk.css.map",
+    "static/js/2.4ce12c57.chunk.js.LICENSE.txt": "/quantlib-wasm-demo/static/js/2.4ce12c57.chunk.js.LICENSE.txt",
+    "static/js/quantlib.wasm": "/quantlib-wasm-demo/static/js/quantlib.55004289.wasm"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2d6f730.js",
-    "static/js/2.77a65a87.chunk.js",
-    "static/css/main.ee9bcf07.chunk.css",
-    "static/js/main.71f59351.chunk.js"
+    "static/js/runtime-main.b62edd92.js",
+    "static/js/2.4ce12c57.chunk.js",
+    "static/css/main.f075b883.chunk.css",
+    "static/js/main.28163a1a.chunk.js"
   ]
 }
