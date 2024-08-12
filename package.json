@@ -8,7 +8,7 @@
         "build": "vite build",
         "test": "cross-env NODE_PATH=. npx jest --detectOpenHandles --maxWorkers=1 --forceExit --verbose",
         "predeploy": "npm run build",
-        "deploy": "gh-pages -d build -r https://github.com/CaptorAB/quantlib-wasm-demo"
+        "deploy": "gh-pages -d dist -r https://github.com/CaptorAB/quantlib-wasm-demo"
     },
     "dependencies": {
         "@testing-library/jest-dom": "^5.12.0",
