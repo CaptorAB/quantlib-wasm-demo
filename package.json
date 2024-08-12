@@ -1,11 +1,10 @@
 {
     "name": "quantlib-wasm-demo",
     "version": "0.1.0",
-    "homepage": "https://captorab.github.io/quantlib-wasm-demo/",
     "private": false,
     "scripts": {
         "start": "vite --port 3000",
-        "build": "vite build",
+        "build": "vite build && cpy --rename=404.html dist/index.html dist",
         "test": "cross-env NODE_PATH=. npx jest --detectOpenHandles --maxWorkers=1 --forceExit --verbose",
         "predeploy": "npm run build",
         "deploy": "gh-pages -d dist -r https://github.com/CaptorAB/quantlib-wasm-demo"
@@ -29,7 +28,8 @@
         "@vitejs/plugin-react-swc": "^3.7.0",
         "cpy-cli": "^3.1.1",
         "eslint-config-prettier": "8.3.0",
-        "gh-pages": "^3.1.0"
+        "gh-pages": "^3.1.0",
+        "cross-env": "^7"
     },
     "prettier": {
         "printWidth": 160,
